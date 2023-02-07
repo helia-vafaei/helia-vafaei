@@ -3,7 +3,7 @@
 <h3 align="center">CE student at Iran University Of Science And Technology(IUST)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 💖 I love **reading books, painting and writing short stories.**
+- 💖 I love **reading books, painting and writing short poems.**
 
 - ✨ I’m addicted **programming and learning new things.**
 
