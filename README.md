@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Helia Vafaei 👋</h1>
-<h3 align="center">CE student at Iran University Of Science And Technology(IUST)</h3>
+<h3 align="center">A passionate Computer Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 💖 I love **reading books, painting and writing short poems.**
